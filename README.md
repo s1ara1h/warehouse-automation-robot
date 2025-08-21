@@ -1,7 +1,7 @@
 # 🤖 Warehouse Automation Robot
 
 <p align="center">
-  <img src="warehouse-automation-robot.png" alt="Robot Design" width="600"/>
+  <img src="warehouse-automation-robot.png" alt="Robot Design" width="400"/>
 </p>
 
 A robot designed to transform a food warehouse into a fully automated storage facility without human intervention.  
