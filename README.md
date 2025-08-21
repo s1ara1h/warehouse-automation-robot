@@ -1,6 +1,8 @@
 # 🤖 Warehouse Automation Robot
 
-![Robot Design](warehouse-automation-robot.png)
+<p align="center">
+  <img src="warehouse-automation-robot.png" alt="Robot Design" width="600"/>
+</p>
 
 A robot designed to transform a food warehouse into a fully automated storage facility without human intervention.  
 The robot is based on a mobile AGV/AMR platform with a robotic arm and integrated sensors to perform autonomous pick-and-place tasks.
